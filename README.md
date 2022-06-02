@@ -1,7 +1,6 @@
 # Laravel Encryption Model Package
 
-![Build Status](https://img.shields.io/github/issues/wiaamLB/laravel-db-encryption?style=plastic)
-![Total Stars](https://img.shields.io/github/stars/wiaamLB/laravel-db-encryption?style=plastic)
+[![Total Stars](https://img.shields.io/github/stars/wiaamLB/laravel-db-encryption?style=plastic)](https://github.com/wiaamLB/laravel-db-encryption/stargazers)
 
 
 This package was created to encrypt and decrypt values of Eloquent model attributes.
