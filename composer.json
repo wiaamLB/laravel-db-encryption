@@ -1,0 +1,21 @@
+{
+    "name": "wiaamtaleb/laravel-db-encryption",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wiaamtaleb\\LaravelDbEncryption\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wiaam taleb",
+            "email": "wiaam.m.taleb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1",
+        "laravel/framework": "^6.0|^7.0|^8.0"
+    }
+}
